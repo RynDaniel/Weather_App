@@ -31,4 +31,4 @@ User story;
 
 🔥 You can use [OpenWeather Api](https://openweathermap.org/) for your app. 
 
-🔥 You don’t need to create a new template for this project, you can use [Weather Condition_App](https://github.com/clarusway/clarusway-full-stack-9-21/tree/main/javascript/projects/006%20-%20Weather_Condition_App(JS-06)) template for html and css. We will be concerned in javascript side.
+🔥 You don’t need to create a new template for this project, you can use [Weather Condition_App](https://github.com/clarusway/clarusway-full-stack-11-22/tree/main/javascript/Projects/005-Weather-App) template for html and css. We will be concerned in javascript side.
